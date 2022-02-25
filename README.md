@@ -31,7 +31,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sefabkr&layout=compact&theme=github_dark"/>|
 
 
-### 🛠 &nbsp;Tech Stack
+
+<h2 align='center'>&nbsp;🛠 Tech Stack</h2>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
@@ -55,35 +56,30 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino&logoColor=00979D)&nbsp;
 
 
-### Operating Systems 🐧 :
+
+<h2 align='center'>&nbsp;Operating Systems</h2>
 <br>
 <p align='center'>
 <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-<br>
+
 <p align='center'>
 <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">&nbsp;&nbsp;
 </p>
 <hr>
-<br>
 
-## Browsers
-<p>
+<h2 align='center'>&nbsp;Browsers</h2>
+<p align='center'>
 	<a href="#"><img alt="Brave" src="https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=white"></a>
 	<a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Google_chrome-4285F4?logo=Google-Chrome&logoColor=white"></a>
 	<a href="#"><img alt="Safari" src="https://img.shields.io/badge/Safari-FF1B2D?logo=Safari&logoColor=white"></a>
 	<a href="#"><img alt="Edge" src="https://img.shields.io/badge/Microsoft_Edge-0078D7?logo=Microsoft-edge&logoColor=white"></a>
-</p>
-
-
-## Connect with Me
-
-
+</p align='center'>
+<h2 align='center'>&nbsp;Connect with Me</h2>
 <p align="center">
   <a href="https://linkedin.com/in/sefabeker"><img alt="Linkedin" title="Sefa Beker Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/sefabkr"><img alt="Github" title="Sefa Beker Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
