@@ -91,5 +91,10 @@
 
 </p>
 
+<p align="center">
+  <br />
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+</p>
+
 ------
 [Sefa Beker](https://github.com/sefabkr)
